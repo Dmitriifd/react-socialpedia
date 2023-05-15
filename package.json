@@ -4,8 +4,6 @@
   "private": true,
   "homepage": "https://dmitriifd.github.io/react-socialpedia",
   "dependencies": {
-    "@emotion/react": "^11.10.5",
-    "@emotion/styled": "^11.10.5",
     "@mui/icons-material": "^5.10.9",
     "@mui/material": "^5.10.11",
     "@reduxjs/toolkit": "^1.8.6",
