@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className="app">
-      <BrowserRouter basename="/react-socialpedia">
+      <BrowserRouter>
         <ThemeProvider theme={theme}>
           <CssBaseline />
           <Routes>
